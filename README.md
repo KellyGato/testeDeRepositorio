@@ -1,2 +1,8 @@
 # testeDeRepositorio
-exercicio criando um novo repositorio
+
+exercicio criando um novo repositório
+
+
+
+alterando o meu novo repositorio
+
